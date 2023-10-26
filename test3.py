@@ -9,7 +9,7 @@ robot.power_on()            #上电
 robot.enable_robot()        #上使能
 # robot.servo_move_enable(True
 PI = 3.1415926
-
+##########
 i=0
 while i<5:
         
